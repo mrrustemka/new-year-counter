@@ -1,0 +1,37 @@
+﻿body, html {
+    margin: 0;
+    padding: 0;
+}
+
+.picture1 {
+    position: absolute;
+}
+
+.picture2 {
+    position: absolute;
+    margin-left: 27%;
+    z-index: 1;
+}
+
+.picture3 {
+    position: absolute;
+    margin-left: 75%;
+    z-index: 0;
+}
+.picture4 {
+    position: absolute;
+    margin-top: 23%;
+}
+
+.picture5 {
+    position: absolute;
+    margin-left: 82%;
+    margin-top: 13%;
+}
+
+.remains {
+    position: absolute;
+    margin-top: 40%;
+    margin-left: 50%;
+    font-family: 'comic sans ms';
+}

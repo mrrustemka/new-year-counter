@@ -1,3 +1,5 @@
+https://mrrustemka.github.io/new-year-counter/
+
 Counter for time until new year
 
 I used JS function. 
